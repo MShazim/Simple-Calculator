@@ -2,6 +2,8 @@
 
 This is a simple calculator web application created using HTML, CSS, and JavaScript. It features a light and dark theme, allowing users to perform basic mathematical calculations conveniently.
 
+Link of Web application: [Calculator](https://mshazim.github.io/Simple-Calculator/)
+
 ## Features
 
 - **Basic Calculations:** Perform addition, subtraction, multiplication, and division operations.
