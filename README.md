@@ -12,8 +12,8 @@ Link of Web application: [Calculator](https://mshazim.github.io/Simple-Calculato
 
 ## Screenshots
 
-![Light Theme](/screenshots/light-theme.png)
-![Dark Theme](/screenshots/dark-theme.png)
+![Light Theme](/Images/Light.png)
+![Dark Theme](/Images/Dark.png)
 
 ## Getting Started
 
