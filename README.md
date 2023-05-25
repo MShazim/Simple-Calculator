@@ -8,6 +8,8 @@ Link of Web application: [Calculator](https://mshazim.github.io/Simple-Calculato
 
 - **Basic Calculations:** Perform addition, subtraction, multiplication, and division operations.
 - **Light and Dark Theme:** Switch between a light and dark theme for personalized visual preferences.
+- **Responsive Design:** The calculator is designed to be responsive and works well on different devices, including desktops, tablets, and mobile phones.
+
 
 ## Screenshots
 
